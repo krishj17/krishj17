@@ -1,9 +1,9 @@
-Hi, I’m @krishj17
-Just Exploring the Endless Ocean of Knowledge!!
-Currently Learning: BCA
-Interested in Web Development.
-Just Mail: krishjariwalae@gma....
-Pronouns: He/Him
+- Hi, I’m @krishj17
+- Just Exploring the Endless Ocean of Knowledge!!
+- Currently Learning: BCA
+- Interested in Web Development.
+- Just Mail: krishjariwalae@gma....
+- Pronouns: He/Him
 
 
 <!---
